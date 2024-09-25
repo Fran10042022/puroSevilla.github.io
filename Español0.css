@@ -1,0 +1,60 @@
+body {
+  background-image: url("Imagenes/SEVIIIIpalabra.jpeg");
+  background-size: 100%; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+img {
+  text-align: center;
+}
+p {
+  margin-top: 20%;
+  margin-right: 5%;
+  margin-left: 5%;
+ text-align: center;
+   font-size: 200%;
+ }
+p1 {
+  margin-top: 2%;
+  margin-right: 5%;
+  margin-left: 9.5%;
+ text-align: center;
+   font-size: 200%;
+ }
+p2 {
+  margin-top: 1%;
+  margin-right: 5%;
+  margin-left: 36%;
+ text-align: center;
+   font-size: 200%;
+ }
+h1 {
+ text-align: center;
+ font-size: 70%;
+  margin-top: 0%;
+  margin-right: 10%;
+  margin-left: 10%;
+ }
+center{
+  margin-right: 150px;
+  margin-left: 150px;
+  font-size: 150%;
+}
+button{
+  background-color: #16a5a7;
+  ;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 150%;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-top: 100px;
+  display: inline-block; /* Makes the button a block element */
+  margin-left: auto; /* Automatically centers it horizontally */
+  margin-right: auto; /* Automatically centers it horizontally */
+}
+button:hover{
+  background-color: #0c7a7b;
+}

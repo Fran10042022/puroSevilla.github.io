@@ -1,0 +1,40 @@
+body {
+  background-image: url("Imagenes/SEVIIII.jpg");
+  background-size: 100%; 
+  background-repeat: no-repeatrepeat;
+  background-attachment: fixed;
+}
+img {
+  text-align: center;
+}
+p {
+ text-align: center;
+   font-size: 300%;
+ }
+h1 {
+ text-align: center;
+ font-size: 300%;
+ }
+center{
+  margin-right: 150px;
+  margin-left: 150px;
+  font-size: 150%;
+}
+button{
+  background-color: #16a5a7;
+  ;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 150%;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-top: 100px;
+  display: inline-block; /* Makes the button a block element */
+  margin-left: auto; /* Automatically centers it horizontally */
+  margin-right: auto; /* Automatically centers it horizontally */
+}
+button:hover{
+  background-color: #0c7a7b;
+}
